@@ -152,7 +152,7 @@
 
 1. ‘요구 사항’을 토대로 ERD 설계해보기
 
-![image.png](Chapter%201%20Database%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8%201b7b57f4596b80dc8918ca9769a63f78/image%2016.png)
+![image](https://github.com/user-attachments/assets/f37c306d-0ad9-4aaa-abcb-8388870ef11b)
 
 1. ‘로컬 DB’ 설정하기
 
